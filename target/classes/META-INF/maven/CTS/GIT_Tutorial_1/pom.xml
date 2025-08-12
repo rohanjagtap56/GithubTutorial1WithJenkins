@@ -23,7 +23,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>demo.Hello</mainClass>
+                    <mainClass>trial.HelloWorld</mainClass>
                 </configuration>
             </plugin>
         </plugins>
